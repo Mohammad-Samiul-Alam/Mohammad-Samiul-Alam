@@ -23,9 +23,9 @@ I am a skilled **Full Stack Web Developer** who builds complete web applications
 - 🌱 I'm currently learning **new technologies and best practices**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **web development**
-- 📫 How to reach me: **add your email / LinkedIn here**
+- 🌐 My resume site: [samiul-alam-rabbi.netlify.app](https://samiul-alam-rabbi.netlify.app/)
+- 📫 How to reach me: [developersamiulalam@gmail.com](mailto:developersamiulalam@gmail.com)
 - ⚡ Fun fact: **add something fun about yourself**
-
 
 ---
 
@@ -78,8 +78,8 @@ I am a skilled **Full Stack Web Developer** who builds complete web applications
 
 <a href="https://github.com/Mohammad-Samiul-Alam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:developersamiulalam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://samiul-alam-rabbi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
