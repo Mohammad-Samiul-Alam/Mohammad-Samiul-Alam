@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated profile picture -->
-<img src="assets/profile.svg" width="260" alt="Mohammad Samiul Alam"/>
+<img src="profile.svg" width="260" alt="Mohammad Samiul Alam"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -19,13 +19,6 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="260" align="center">
-  <img src="assets/profile.png" width="240" alt="Mohammad Samiul Alam"/>
-</td>
-<td>
-
 I am a skilled **Full Stack Web Developer** who builds complete web applications, from responsive user interfaces to the server-side logic and databases behind them. I'm ambitious, enthusiastic, focused, organized, and easy to work with.
 
 - 🔭 I'm currently working on **exciting full stack projects**
@@ -35,9 +28,6 @@ I am a skilled **Full Stack Web Developer** who builds complete web applications
 - 📫 How to reach me: **add your email / LinkedIn here**
 - ⚡ Fun fact: **add something fun about yourself**
 
-</td>
-</tr>
-</table>
 
 ---
 
