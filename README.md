@@ -11,6 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Samiul;Full+Stack+Web+Developer;I+build+complete+web+applications;Ambitious+%7C+Focused+%7C+Organized" alt="Typing SVG"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Mohammad-Samiul-Alam&label=Profile%20views&color=7b2ff7&style=flat-square" alt="views"/>
 
 </div>
 
